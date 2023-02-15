@@ -1,0 +1,15 @@
+.p-Home.header{
+    font-weight:500;
+    font-family: sans-serif;
+}
+.p-Home{
+    font-weight:500;
+    font-family:sans-serif;
+}
+.p.Home.description1{
+    font-weight:700;
+    font-family:sans-serif;
+}
+.p{
+    overflow-y:scroll;
+}

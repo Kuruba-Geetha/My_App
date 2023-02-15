@@ -1,0 +1,10 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "d8a8e923-dabd-47bb-909e-7e2cac69cc53": {
+    "name": "RatingPage",
+    "route": "/RatingPage"
+  }
+}
